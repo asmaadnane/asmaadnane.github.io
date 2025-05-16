@@ -1,0 +1,15 @@
+domain: asmaadnane.github.io
+url: https://asmaadnane.github.io
+title: Dr. Asma Adnane
+description: Interested in Cyber security and data governance in IoT and vehiclar networks
+show_downloads: true
+show_downloads: false
+theme: jekyll-theme-time-machine
+github:
+  is_user_page: true
+  is_project_page: false
+  owner_url: https://github.com/asmaadnane
+  owner_gravatar_url: 
+  owner_name: Asmaadnane
+  owner_gravatar_url: /assets/images/octocat.png
+  
