@@ -50,7 +50,9 @@ These projects have covered a range of cyber security topics and fostered collab
 1. **Trust evaluation framework for vehicular networks**
 	- **Funder:** University Of Derby
 	- **Student:** [Dr. Farhan Ahmad](https://www.linkedin.com/in/farhan-ahmad-phd-2b4ba330/) - **Status:** Completed 2017
-	- **Focus:** 
+	- **Focus:**  we proposed a novel Trust Evaluation And Management (TEAM) framework,
+which serves as a unique paradigm for the design, management and evaluation of trust models in
+various contexts and in presence of malicious vehicles.
 
 2. **Optimal Governance of Data in the Ecosystem of
 Connected Vehicles With Assistance of Maturity
