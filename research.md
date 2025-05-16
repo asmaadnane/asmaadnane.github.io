@@ -2,6 +2,14 @@
 layout: default
 ---
 
+# Research outputs
+
+Full list of publications available on: 
+-	[Google scholar](https://scholar.google.de/citations?user=yNx6iUwAAAAJ&hl=en)  
+-	[Loughborough university profile page](https://publications.lboro.ac.uk/publications/all/collated/scha.html)
+
+---
+
 # Research Projects
 
 This page highlights the externally and internally funded research projects 
@@ -73,14 +81,6 @@ Model**
 	- **Focus:** Interdisciplinary research between cyber security and design, 
 	 exploring how design thinking can enhance digital safety and user engagement
 	 
----
-
-# Research outputs
-
-Full list of publications available on: 
--	[Google scholar](https://scholar.google.de/citations?user=yNx6iUwAAAAJ&hl=en)  
--	[Loughborough university profile page](https://publications.lboro.ac.uk/publications/all/collated/scha.html)
-
 ---
 
 # PhD Supervision
